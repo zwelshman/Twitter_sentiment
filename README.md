@@ -19,4 +19,4 @@ To Do:</br>
 1. create config file for db connections</br> 
 2. update database code from current sqlite implemenation to postgreSQL </br>
 3. update front end code to match website </br>
-3. Edit requirements.txt </br>
+4. Edit requirements.txt </br>
