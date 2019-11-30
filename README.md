@@ -1,4 +1,4 @@
-# Twitter sentiment analysis using Textblob and vaderSentiment <\br>
+# Twitter sentiment analysis using Textblob and vaderSentiment </br>
 
 Scripts to collect, analyse and update live graphs using vaderSentiment and textblob and Dash based on the tutorial by Sentdex<\br> https://pythonprogramming.net/twitter-sentiment-analysis-nltk-tutorial/<\br>
 <\br>
