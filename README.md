@@ -16,5 +16,6 @@ Run Vader_sentiment.py first then run Vader_Dash.py</br>
 
 
 To Do:</br>
-3. update front end to match website</br>
-4. create config file</br>
+1. create config file for db connections</br> 
+2. update database code from current sqlite implemenation to postgreSQL </br>
+2. update front code end to match website </br>
