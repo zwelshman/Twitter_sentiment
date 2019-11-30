@@ -12,3 +12,10 @@ Run Textblob_sentiment.py first then run Text_Blob_Dash.py
 
 For vadersentiment version
 Run Vader_sentiment.py first then run Vader_Dash.py
+
+
+
+To Do:
+1. connect to database
+2. read from database
+3. update front end
