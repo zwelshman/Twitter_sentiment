@@ -16,6 +16,5 @@ Run Vader_sentiment.py first then run Vader_Dash.py
 
 
 To Do:
-1. connect to database
-2. read from database
-3. update front end
+3. update front end to match website
+4. create config file
